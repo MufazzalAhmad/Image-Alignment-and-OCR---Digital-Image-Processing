@@ -1,0 +1,43 @@
+COMSATS University Islamabad, Lahore Campus
+Department ef Computer Science
+
+CSC-101 |Credit Hours:| 3{2,1)
+BSE / BSCS/BSAI
+Rizwan Qureshi, Dr. Jawad Shafi
+
+b Damival Haeder FAIG-OSE-W7
+
+F
+f Guidelaes:
+
+MM. Junaid Anjum, Muhammad Nasir, M.
+
+Programme Name:
+
+f
+
+Uses of calculators or clectronic devices are not allowed,
+
+Q@ t: Sbjectives. Circle the correct answer. [CLO@1)|[Total Marks = 15]
+
+2) Truce or Faise [Sterks = §]
+1. A computer virus can only be transferred to another computer via a storage T &)
+
+medium.
+2. Secure Web pages use encryption to securely transfer data sent via those pages. (a) F
+3. Wecan use Do-While instead of While loop. T @)
+4. Dry mun gives us the state of variables at cach statement of code. (t) F
+5. Pseudo code/flow charts increase understanding of the processes they represent. (x) F
+
+b) Rice@s: [Miarks = 10]
+
+1. Which of the following act as middleware in database
+
+b) MS Access
+
+c) Oracle Database d) SQL Server
+
+2. A behavioural approach to determine if computer is intelligent.
+
+work better in recognition tasks.
+
